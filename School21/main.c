@@ -7,8 +7,12 @@
 
 #include <stdio.h>
 
+int Test.getName(){
+    
+};
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    printf("LIGTH WEAGTH BABY\n");
+    
     return 0;
 }
